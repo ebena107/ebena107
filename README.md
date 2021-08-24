@@ -11,9 +11,25 @@
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - ⚡ &ensp;Fun fact: I love reading 
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 🌴 Loves nature, dogs and gardening 
+- 🖼️ Loves to draw pencil sketches
 
-### Connect With Me
+---
 
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=ebena107&column=7"/>
+</div>
+
+---
+
+<div>
+  <h4>👨🏻‍💻 GitHub Usage stats</h4>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ebena107&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebena107&layout=compact" />
+</div>
+
+---
 
 
 
