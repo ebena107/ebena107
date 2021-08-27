@@ -12,7 +12,7 @@
 - ⚡ &ensp;Fun fact: I love reading 
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 - 🌴 Loves nature, dogs and gardening 
-- 🖼️ Loves to draw pencil sketches
+
 
 ---
 
